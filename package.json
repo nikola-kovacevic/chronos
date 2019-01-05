@@ -1,0 +1,23 @@
+{
+  "name": "chronos",
+  "version": "1.0.0",
+  "description": "Chronos - Simple state management",
+  "main": "src/dist/index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "Nikola Kovacevic <nikolakovacevic.zg@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-typescript": "^5.0.0",
+    "gulp-uglify": "^3.0.1",
+    "jest": "^23.6.0",
+    "nodemon": "^1.18.9",
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2"
+  }
+}
