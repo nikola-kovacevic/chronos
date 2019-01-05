@@ -1,6 +1,7 @@
 {
-  "name": "chronos",
-  "version": "1.0.0",
+  "name": "@nkovacevic/chronos",
+  "version": "1.0.1",
+  "homepage": "https://github.com/nikola-kovacevic/chronos",
   "description": "Chronos - Simple state management",
   "main": "src/dist/index.js",
   "scripts": {

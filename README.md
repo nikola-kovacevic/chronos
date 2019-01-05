@@ -4,13 +4,17 @@ Chronos is a simple state management library written in TypeScript, transpiled t
 
 ## USAGE
 
-You can see the example in demo folder of this repository!\
+You can see the example in demo folder of this repository!
 
 Code example:
 
+```sh
+npm i @nkovacevic/chronos
+```
+
 ```javascript
 
-const Chronos = require('../src/dist');
+const Chronos = require('@nkovacevic/chronos');
 const chrono = new Chronos();
 
 chrono.enable();
